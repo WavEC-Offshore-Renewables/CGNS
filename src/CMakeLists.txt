@@ -547,6 +547,7 @@ set(cgns_C_FILES
 	cgns_internals.c
 	cgns_io.c
 	cgnslib.c
+	cg_hashmap.c
 	adf/ADF_interface.c
 	adf/ADF_internals.c)
 
